@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-luisiitodev
   LOCATION: westus2
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ID
+  SUBSCRIPTION-ID: f59a1fd0-8d4d-40e4-9f30-e614dfffd541
   WEBAPP-NAME: eshoponweb-webapp-luisiitodev
 
 jobs:
